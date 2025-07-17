@@ -4,8 +4,11 @@ Unlocking delicious data, one plot at a time.
 
 ---
 
-(<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/4a7dfe73-5a98-47a1-b62e-0a716a8b4e17" />
-) <!-- Replace with your own image or remove -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/625dc13b-9f23-4d63-92b5-c54c1a8fb3de" alt="Zomato Analysis Graph" width="800" height="470">
+  <br>
+  <em>Visualizing Key Zomato Metrics</em>
+</p> <!-- Replace with your own image or remove -->
 
 ## 📌 Project Summary
 
@@ -39,21 +42,6 @@ Whether you're a food lover, data nerd, or curious entrepreneur, this project wi
 - 🌟 Ratings vs. Cost — Is expensive always better?
 - 🗺️ Heatmaps for location-based insights
 
----
-
-## 🔥 Sneak Peek of Visuals
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/top-cuisines.png" alt="Top Cuisines" width="500"/>
-  <br>
-  <em>Top trending cuisines across India</em>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/ratings-vs-cost.png" alt="Ratings vs Cost" width="500"/>
-  <br>
-  <em>Relationship between rating and price</em>
-</p>
 
 ---
 
