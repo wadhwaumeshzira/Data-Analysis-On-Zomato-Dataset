@@ -42,6 +42,16 @@ Whether you're a food lover, data nerd, or curious entrepreneur, this project wi
 - 🌟 Ratings vs. Cost — Is expensive always better?
 - 🗺️ Heatmaps for location-based insights
 
+🧠 Future Enhancements
+📌 Integrate sentiment analysis from reviews
+
+🎯 Predict restaurant success using ML
+
+🤝 Compare Zomato data with Swiggy / Uber Eats
+
+👨‍💻 About Me
+Hi! I'm Umesh Kumar, a data enthusiast passionate about turning messy data into impactful insights.
+
 
 ---
 
